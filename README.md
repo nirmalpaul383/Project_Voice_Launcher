@@ -1,6 +1,8 @@
 # Project_Voice_Launcher
 A simple launcher program for quick application launches. Use your voice and launch your favorite app very quickly
+
 ..............................................................................................................................................................................
+
 About app compatibility:
 This application's icon and contains are designed and developed by me (N Paul). This program is best suitable for
 stock android(v 5.1 +) . This is an open-source project (originally made by me, N Paul) and anybody can view, modify
