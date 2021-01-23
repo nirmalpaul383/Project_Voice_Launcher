@@ -19,8 +19,10 @@ source file you 'will need' Tasker application and if you want to 'export your o
 Tasker and its extension app Tasker app factory.
 
 ..............................................................................................................................................................................
+
 My YouTube Page: https://www.youtube.com/channel/UCY6JY8bTlR7hZEvhy6Pldxg/
 FaceBook Page: https://www.facebook.com/a.New.Way.Technical/
 GitHub Page: https://github.com/nirmalpaul383
 If you like this project, please give this project a ♥
+
 ..............................................................................................................................................................................
